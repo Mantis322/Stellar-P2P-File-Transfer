@@ -144,23 +144,6 @@ stellar-p2p-file-transfer/
 
 ---
 
-## 🌟 Screenshots
-
-<div align="center">
-
-### 🏠 Home Page
-*Beautiful landing page with wallet connection*
-
-### 🔐 Permission Management
-*Easy-to-use permission granting and revoking*
-
-### 📁 File Transfer Interface
-*Intuitive file upload and transfer system*
-
-</div>
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions! Please feel free to submit a Pull Request.
