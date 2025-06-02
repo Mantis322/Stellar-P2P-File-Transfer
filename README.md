@@ -54,8 +54,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Mantis322/stellar-p2p-file-transfer.git
-   cd stellar-p2p-file-transfer
+   git clone https://github.com/Mantis322/stellar-p2p-file-transfer.git](https://github.com/Mantis322/Stellar-P2P-File-Transfer.git
+   cd Stellar-P2P-File-Transfer
    ```
 
 2. **Install dependencies**
